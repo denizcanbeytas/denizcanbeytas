@@ -8,15 +8,15 @@
 
 <h3 >👨🏻‍💻 About Me</h4>
 
-- 🌱 I’m currently learning **React.js and Javascript**
+ 🌱 I’m currently learning **React.js and Javascript**
 
-- 🎓 Studying Computer Science at ATU.
+ 🎓 Studying Computer Science at ATU.
 
-- 💬 Ask me about React, Bootstrap and Css.
+ 💬 Ask me about React, Bootstrap and Css.
 
-- 📫 How to reach me **beytasdenizcan@gmail.com**
+ 📫 How to reach me **beytasdenizcan@gmail.com**
 
-- 📝 [Resume](https://drive.google.com/file/d/143RYhq5gkjuMCeJZmwdHIAW_WiQ3FbXk/view?usp=sharing)
+ 📝 [Resume](https://drive.google.com/file/d/143RYhq5gkjuMCeJZmwdHIAW_WiQ3FbXk/view?usp=sharing)
 
 
 <!-- - ![](https://visitor-badge.glitch.me/badge?page_id=denizcanbeytas.denizcanbeytas) -->
