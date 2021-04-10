@@ -69,7 +69,7 @@
 <br>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizcanbeytas&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizcanbeytas&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" width="50%" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizcanbeytas&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>
 
