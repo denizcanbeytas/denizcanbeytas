@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Deniz <br><h3 align="center">A Software Engineering Student from Istanbul</h3> </h1>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -74,4 +75,4 @@
 &nbsp; <a href="https://www.linkedin.com/in/deniz-can-beyta%C5%9F-082560194/"><img src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1618090757~hmac=4a39ae9116879c327a01e0bb61588b34" width="50" /></a>
 &nbsp; <a href="mailto:beytasdenizcan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1618090822~hmac=558132dac65c44186e9eb15190adc81f"  width="50" /></a>
 </p>
-
+</div>
