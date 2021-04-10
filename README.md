@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Deniz <br><h3 align="center">A Software Engineering Student from Istanbul</h3> </h1>
 
 <br>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 <h4 >👨🏻‍💻 About Me</h4>
 
@@ -39,7 +39,7 @@
 </p>
 <h6>Backend</h6>
 <p align="">
-<a href="https://nodejs.org" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1618088238~hmac=7de9ca9093d29e0c62a6debd4e645ce8" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1618090571~hmac=db879542064b95127e56172769a29ad3" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="50"/> </a>
 </p>
 <h6>Tools</h6>
