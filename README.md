@@ -6,7 +6,7 @@
 <br>
  
 
-<h4 >👨🏻‍💻 About Me</h4>
+<h3 >👨🏻‍💻 About Me</h4>
 
 - 🌱 I’m currently learning **React.js and Javascript**
 
@@ -24,7 +24,7 @@
 <hr>
 
 <div align="center">
-<h4 align="">⚡Languages and Tools</h4>
+<h3 align="">⚡Languages and Tools</h4>
 
 <h6>Languages</h6>
 <p align="">
@@ -65,7 +65,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizcanbeytas&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="50%" /></p>
 
-<hr>
 
 <h3 align= "center"> 🤝🏻 Connect with Me </h3>
 
