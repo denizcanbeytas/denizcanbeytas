@@ -14,7 +14,7 @@
 
  💬 Ask me about React, Bootstrap and Css.
 
- 📝 [Resume](https://drive.google.com/file/d/143RYhq5gkjuMCeJZmwdHIAW_WiQ3FbXk/view?usp=sharing)
+ 📝 [Resume](https://drive.google.com/file/d/1yCo6fPCeOuZfueJ31YlAV-7IMy4Y81pL/view?usp=sharing)
 
  📫 How to reach me 🤝
  <p align="center">
