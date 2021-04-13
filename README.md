@@ -69,9 +69,9 @@
 <br>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizcanbeytas&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" width="45%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizcanbeytas&show_icons=true&theme=radical&locale=en&layout=compact" alt="beytasdenizcan" width="45%" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=denizcanbeytas&show_icons=true&theme=dark&locale=en" alt="cengizcmataraci" width="45%" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=denizcanbeytas&show_icons=true&theme=dark&locale=en" alt="beytasdenizcan" width="45%" /></p>
 
 
 
