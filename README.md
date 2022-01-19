@@ -5,7 +5,8 @@
 Hi! My name is Deniz Can Beytaş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><br/>
 I am a almost iOS Developer.
 
- - <h4>👨🏻‍💻 About Me</h4> 
+ <h4>👨🏻‍💻 About Me</h4> 
+ 
  - 🎓 Almost Graduated in Software Engineering at ATU
  - 🌱 Learning all about Swift
  - ⚙️ I use: `.swift`, `.js`, `.html`, `.css`
