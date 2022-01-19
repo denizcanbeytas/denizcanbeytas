@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+Deniz+Can+Beytas.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
-Hi! My name is Deniz Can Beytaş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><br/>
+Hi, I'm Deniz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><br/>
 I am a almost iOS Developer.
 
 <h4>👨🏻‍💻 About Me</h4> 
@@ -12,7 +12,7 @@ I am a almost iOS Developer.
  - 🌱 Learning all about Swift
  - ⚙️ I use: `.swift`, `.js`, `.html`, `.css`
  - <img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif" width="20px"> Animal rights protector 
- - <img src="https://media.giphy.com/media/kjTOKe6huS1yM/giphy.gif" width="20px"> I'am totaly energy person
+ - <img src="https://media.giphy.com/media/kjTOKe6huS1yM/giphy.gif" width="20px"> I'm totaly energy person
  - 📝 [Resume](https://drive.google.com/file/d/1yCo6fPCeOuZfueJ31YlAV-7IMy4Y81pL/view?usp=sharing)
  
 
