@@ -17,7 +17,7 @@ I am a almost iOS Developer.
  
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denizcanbeytas&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denizcanbeytas&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Learning
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
