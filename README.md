@@ -1,6 +1,7 @@
 <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+Deniz+Can+Beytas.;Nice+to+meet+you.)](https://git.io/typing-svg)
+
 Hi! My name is Deniz Can Beytaş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><br/>
 I am a almost iOS Developer.
 
