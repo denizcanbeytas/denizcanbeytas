@@ -1,12 +1,12 @@
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100px"><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100px"><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="100px"><img src="https://media.giphy.com/media/UVFsiiQNiXx0iEvMkX/giphy.gif" width="100px" height="100px"><img src="https://media.giphy.com/media/clnORRzuaBV7rNisCP/giphy.gif" width="100px" height="100px">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+Deniz+Can+Beytas.;Nice+to+meet+you.)](https://git.io/typing-svg)
-
-Hi, I'm Deniz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><br/>
+Hi! My name is Deniz Can Beytaş <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"><br/>
 I am a almost iOS Developer.
 
- <h4>👨🏻‍💻 About Me</h4> 
- 
+<h4>👨🏻‍💻 About Me</h4> 
+
  - 🎓 Almost Graduated in Software Engineering at ATU
  - 🌱 Learning all about Swift
  - ⚙️ I use: `.swift`, `.js`, `.html`, `.css`
