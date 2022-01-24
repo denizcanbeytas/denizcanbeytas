@@ -39,7 +39,6 @@ I am an almost iOS Developer.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beytasdenizcan/)
 <a href="mailto:beytasdenizcan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=medium&logoColor=white"  width="90" /></a>
 
-<hr>
 
 ![snake svg](https://github.com/denizcanbeytas/denizcanbeytas/blob/output/github-contribution-grid-snake.svg)
 
