@@ -17,6 +17,10 @@ I am an almost iOS Developer.
  
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denizcanbeytas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 -->
 
 
@@ -45,7 +49,5 @@ I am an almost iOS Developer.
 
 ![snake svg](https://github.com/denizcanbeytas/denizcanbeytas/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
 
