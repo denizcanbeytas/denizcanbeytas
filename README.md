@@ -17,7 +17,7 @@ I am an almost iOS Developer.
  
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denizcanbeytas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ## Learning
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -39,6 +39,7 @@ I am an almost iOS Developer.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beytasdenizcan/)
 <a href="mailto:beytasdenizcan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=medium&logoColor=white"  width="90" /></a>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denizcanbeytas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![snake svg](https://github.com/denizcanbeytas/denizcanbeytas/blob/output/github-contribution-grid-snake.svg)
 
