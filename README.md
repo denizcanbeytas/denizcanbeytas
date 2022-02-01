@@ -34,7 +34,7 @@ I am an almost iOS Developer.
 ![React](https://img.shields.io/badge/React-0077B5?style=for-the-badge&logo=react&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-E4405F?style=for-the-badge&logo=css&logoColor=white)
 ![Html](https://img.shields.io/badge/Html-9146FF?style=for-the-badge&logo=html&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
