@@ -13,6 +13,7 @@ I am an almost iOS Developer.
  - ⚙️ I use: `.swift`, `.js`, `.html`, `.css`
  - <img src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif" width="20px"> Animal rights protector 
  - <img src="https://media.giphy.com/media/kjTOKe6huS1yM/giphy.gif" width="20px"> I'm totaly energy person
+ - 👨🏻‍💻 [Personal Web Page](https://denizcanbeytas.github.io/My-Own-Portfolio-Page/)
  - 📝 [Resume](https://drive.google.com/file/d/1Bt_UbTiJiiqhvSTki_utrQ266VJcr6M6/view?usp=sharing)
  
 <!--
