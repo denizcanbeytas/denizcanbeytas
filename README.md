@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+Deniz+Can+Beytas.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
-Hi, I'm Deniz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"><br/>
+Hi, I'm Deniz <br/>
 I am an almost iOS Developer.
 
 <h4>👨🏻‍💻 About Me</h4> 
