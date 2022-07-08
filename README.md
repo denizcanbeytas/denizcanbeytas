@@ -15,7 +15,7 @@ I am an almost iOS Developer.
  - Animal rights protector 
  - I'm totaly energy person
  - 👨🏻‍💻 [Personal Web Page](https://denizcanbeytas.github.io/My-Own-Portfolio-Page/)
- - 📝 [Resume](https://drive.google.com/file/d/1Bt_UbTiJiiqhvSTki_utrQ266VJcr6M6/view?usp=sharing)
+ - 📝 [Resume](https://drive.google.com/file/d/1M1cJgvCCvtjIPXHbmf1PJEM1qEsPXh2-/view?usp=sharing)
  
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denizcanbeytas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
