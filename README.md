@@ -9,13 +9,13 @@ I am an iOS Developer.
 
 <h4>👨🏻‍💻 About Me</h4> 
 
- - 🎓 Almost Graduated in Software Engineering at ATU
+ - 🎓 Graduated in Software Engineering at ATU
  - 🌱 Learning all about Swift
  - ⚙️ I use: `.swift`, `.js`, `.html`, `.css`
  - Animal rights protector 
  - I'm totaly energy person
  - 👨🏻‍💻 [Personal Web Page](https://denizcanbeytas.github.io/My-Own-Portfolio-Page/)
- - 📝 [Resume](https://drive.google.com/file/d/1M1cJgvCCvtjIPXHbmf1PJEM1qEsPXh2-/view?usp=sharing)
+ - 📝 [Resume](https://drive.google.com/file/d/1NQnE2nd3P-OvUk8Vveb-D4jeSkTTIZak/view?usp=sharing)
  
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denizcanbeytas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
