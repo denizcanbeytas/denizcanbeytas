@@ -33,10 +33,6 @@ I am an iOS Developer.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Expertise
-![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-0077B5?style=for-the-badge&logo=react&logoColor=white)
-![Css](https://img.shields.io/badge/Css-E4405F?style=for-the-badge&logo=css&logoColor=white)
-![Html](https://img.shields.io/badge/Html-9146FF?style=for-the-badge&logo=html&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
